@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/LazyYo/DnD/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Joueurs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Joueur  	| Personnage      	| Race               	| Classe      	| Niveau 	|
+|---------	|-----------------	|--------------------	|-------------	|--------	|
+| Cyril   	| Balasar         	| Drakéïde           	| Rôdeur      	| 1      	|
+| Adèle   	| Bryn            	| Haute-elfe Éladrin 	| Ensorceleur 	| 1      	|
+| Mitch   	| Ayran           	| Elfe sylvain       	| Roublard    	| 1      	|
+| Jeanne  	| Enzana          	| Haute-elfe         	| Barde       	| 1      	|
+| Antoine 	| Shuschlor'schhh 	| Félys              	| Roublard    	| 1      	|
+| Carmen  	|                 	|                    	|             	| 1      	|
+| Egon    	|                 	| Drakéïde           	| Paladin     	| 1      	|
+| Maelio  	|                 	|                    	|             	| 1      	|
+| Hervé   	|                 	|                    	|             	| 1      	|
+| Rémi    	| Aspros          	| Génasi de l'Air    	| Rôdeur      	| 1      	|
+| Myrina  	| Nyx             	| Gnome des forêts   	| Druide      	| 1      	|
+| Carmen  	| Bursük            | Demi-Orque   	      | Moine       	| 1      	|
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LazyYo/DnD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
